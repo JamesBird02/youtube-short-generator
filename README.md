@@ -153,7 +153,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-James._1@outlook.com
+Email - James._1@outlook.com
 
 Project Link: [https://github.com/JamesBird02/youtube-short-generator.git](https://github.com/JamesBird02/youtube-short-generator.git)
 
