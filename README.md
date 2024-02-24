@@ -37,16 +37,16 @@
 <h3 align="center">AI Generated Youtube Shorts</h3>
 
   <p align="center">
-    Simple program that scrapes chosen subreddit for video ideas and generates them using the OpenAI API and elevenlabs text to speech.
+    A simple program that scrapes chosen subreddits for video ideas and generates them using the OpenAI API and elevenlabs text-to-speech.
     <br />
     <a href="https://github.com/JamesBird02/youtube-short-generator.git"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/JamesBird02/youtube-short-generator.git">View Demo</a>
     ·
-    <a href="https://github.com/JamesBird02/youtube-short-generator.git/issues">Report Bug</a>
+    <a href="https://github.com/JamesBird02/youtube-short-generator/issues">Report Bug</a>
     ·
-    <a href="https://github.com/JamesBird02/youtube-short-generator.git/issues">Request Feature</a>
+    <a href="https://github.com/JamesBird02/youtube-short-generator/issues">Request Feature</a>
   </p>
 </div>
 
@@ -74,7 +74,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-After seeing how low effort some online short form content can be, I decided to make things worse by creating this program. With the click of a few buttons even **you** can now dilute the online space with even more pointless videos. Through automating the idea generation as well as narration and video, you have no excuse not to be mass producing content online.
+After seeing how low effort some online short-form content can be, I decided to make things worse by creating this program. With the click of a few buttons even **you** can now dilute the online space with even more pointless videos. Through automating the idea generation as well as narration and video, you have no excuse not to be mass-producing content online.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -91,7 +91,7 @@ To get a local copy up and running follow these simple steps.
    ```sh
    git clone https://github.com/JamesBird02/youtube-short-generator.git
    ```
-3. Install required Python packages
+3. Install the required Python packages
    ```sh
    pip install -r requirements.txt
    ```
@@ -131,7 +131,7 @@ See the [open issues](https://github.com/JamesBird02/youtube-short-generator.git
 <!-- CONTRIBUTING -->
 ## Contributing
 
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
+Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
 If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
 Don't forget to give the project a star! Thanks again!
