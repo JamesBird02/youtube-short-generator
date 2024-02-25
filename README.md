@@ -37,7 +37,7 @@
 <h3 align="center">AI Generated Youtube Shorts</h3>
 
   <p align="center">
-    A simple program that scrapes chosen subreddits for video ideas and generates them using the OpenAI API and elevenlabs text-to-speech.
+    Program that scrapes chosen subreddits for video ideas and generates them into YouTube shorts using the OpenAI API and elevenlabs text-to-speech.
     <br />
     <a href="https://github.com/JamesBird02/youtube-short-generator.git"><strong>Explore the docs »</strong></a>
     <br />
